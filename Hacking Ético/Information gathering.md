@@ -127,3 +127,8 @@ Otras
 * -T: del 0 al 5 realizará el escaneo más rápido/lento. 
 * -oN : Guardará el resultado en un archivo. 
 * -oG : guardará el resultado en un archivo (grep friendly).
+
+Pentest:
+Recolección de información: 
+✓ https://www.csirtcv.gva.es/sites/all/files/images/content/cert_inf_seguridad_information_gathering.pdf 
+✓ https://resources.infosecinstitute.com/topic/penetration-testing-intelligence-gathering
