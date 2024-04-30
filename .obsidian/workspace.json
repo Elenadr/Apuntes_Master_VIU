@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -163,10 +167,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0e3dc84d6088b54e",
+  "active": "b1eec90082f2c1aa",
   "lastOpenFiles": [
-    "README.md",
     "Hacking Ético/Information gathering.md",
+    "README.md",
     "Monitorización y data mining/Análisis de seguridad mediante  monitorización de eventos.md",
     "Sin título",
     "Hacking Ético",
