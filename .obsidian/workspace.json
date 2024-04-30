@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cumplimiento normativo/Tema 1 - Código de derecho de la seguridad.md",
+                "file": "Monitorización y data mining/Análisis de seguridad mediante  monitorización de eventos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b9395dd51faa5f7b",
+            "id": "0e3dc84d6088b54e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monitorización y data mining/Sin título.md",
+                "file": "Cumplimiento normativo/Código de derecho de la seguridad.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cumplimiento normativo/Código de derecho de la seguridad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cumplimiento normativo/Código de derecho de la seguridad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sin título.md"
+                "file": "Cumplimiento normativo/Código de derecho de la seguridad.md"
               }
             }
           }
@@ -157,12 +159,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6ba5af575b72b48e",
+  "active": "0e3dc84d6088b54e",
   "lastOpenFiles": [
-    "Cumplimiento normativo",
+    "Índice.md",
+    "Monitorización y data mining/Análisis de seguridad mediante  monitorización de eventos.md",
+    "Cumplimiento normativo/Código de derecho de la seguridad.md",
     "Monitorización y data mining/Sin título.md",
-    "Sin título.md",
-    "Cumplimiento normativo/Tema 1 - Código de derecho de la seguridad.md",
+    "Cumplimiento normativo",
     "Monitorización y data mining"
   ]
 }
