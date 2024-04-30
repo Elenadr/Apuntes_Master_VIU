@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "f82ede1e46a556af",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c2159a3c160901f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "889c9bc107c4e58f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cumplimiento normativo/Tema 1 - Código de derecho de la seguridad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9395dd51faa5f7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monitorización y data mining/Sin título.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b71531d131d2b202",
+    "type": "split",
+    "children": [
+      {
+        "id": "043458b28d7985c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ba5af575b72b48e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd7aad99f6d2bfb2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93a0dab21ec90365",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3f363ac817fd0de2",
+    "type": "split",
+    "children": [
+      {
+        "id": "acb3b6cd7babf12b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f5ce266d718751c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "876a8ad926dcbb30",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "892610a31c0222c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b6f1c8e2c64e4550",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sin título.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "6ba5af575b72b48e",
+  "lastOpenFiles": [
+    "Cumplimiento normativo",
+    "Monitorización y data mining/Sin título.md",
+    "Sin título.md",
+    "Cumplimiento normativo/Tema 1 - Código de derecho de la seguridad.md",
+    "Monitorización y data mining"
+  ]
+}
